@@ -2094,28 +2094,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.10962320327846875,
-          "pitch": 0.7534707785035675,
+          "yaw": -0.00003361307542348868,
+          "pitch": 0.7360507906529872,
           "rotation": 0,
           "target": "32-vitrine4"
         },
         {
-          "yaw": -0.8967105888229927,
-          "pitch": 0.5207052025412224,
-          "rotation": 0.7853981633974483,
+          "yaw": -0.9160309083248634,
+          "pitch": 0.5625564187324379,
+          "rotation": 12.566370614359176,
           "target": "31-vitrine3"
         },
         {
-          "yaw": 1.0296707091092863,
-          "pitch": 0.47138340739254403,
-          "rotation": 11.780972450961727,
+          "yaw": 0.8275812125810642,
+          "pitch": 0.48347534949050797,
+          "rotation": 6.283185307179586,
           "target": "33-vitrine5"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.10859329812616814,
-          "pitch": -0.38200683207883124,
+          "yaw": 0.028062160855654383,
+          "pitch": -0.30179926107354405,
           "title": "Vitrine 4",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/vitrine4.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         }
