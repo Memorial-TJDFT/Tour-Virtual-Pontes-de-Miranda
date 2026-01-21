@@ -1850,28 +1850,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.10239303629850305,
-          "pitch": 0.533213122459621,
+          "yaw": 0.12239594345202676,
+          "pitch": 0.6036924272887809,
           "rotation": 0,
           "target": "28-moveis"
         },
         {
-          "yaw": 1.6399651831754536,
-          "pitch": -0.08077976816762167,
+          "yaw": 1.6624903652920464,
+          "pitch": -0.006159546249364212,
           "rotation": 4.71238898038469,
           "target": "29-vitrine1"
         },
         {
-          "yaw": -3.021361429195153,
-          "pitch": -0.10552639530106411,
+          "yaw": -3.0281406854832547,
+          "pitch": -0.0060568524606399166,
           "rotation": 0,
           "target": "27-painel28"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.07294111536597647,
-          "pitch": -0.3267408648427068,
+          "yaw": 0.16143408236291812,
+          "pitch": -0.2909566220976796,
           "title": "Móveis",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/moveis.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         }
