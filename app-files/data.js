@@ -1521,40 +1521,40 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.22639190738516568,
-          "pitch": 0.652954022610686,
+          "yaw": 0.21069649229221454,
+          "pitch": 0.67077605312506,
           "rotation": 0,
           "target": "23-painel24"
         },
         {
-          "yaw": 0.708167846195785,
-          "pitch": 0.27815791775078935,
-          "rotation": 10.995574287564278,
+          "yaw": 0.6902672462849573,
+          "pitch": 0.2879153657403819,
+          "rotation": 4.71238898038469,
           "target": "21-painel22"
         },
         {
-          "yaw": -0.2888145383739804,
-          "pitch": 0.2952490432839472,
+          "yaw": -0.31022535803739437,
+          "pitch": 0.3203687397144179,
           "rotation": 1.5707963267948966,
           "target": "22-painel23"
         },
         {
-          "yaw": 3.1174734205033303,
-          "pitch": 0.21826164243381996,
-          "rotation": 13.351768777756625,
+          "yaw": -3.136198391134366,
+          "pitch": 0.23321841552723477,
+          "rotation": 0,
           "target": "24-painel25"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.0822475614202709,
-          "pitch": -0.5696177778126348,
+          "yaw": -0.07914554926001749,
+          "pitch": -0.5294356716766373,
           "title": "Painel 24",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/painel24.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         },
         {
-          "yaw": -0.35280332793080404,
-          "pitch": -0.3547376313593791,
+          "yaw": -0.41112312294168696,
+          "pitch": -0.3176654437798412,
           "title": "Quadros 2",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/quadro2.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         }
